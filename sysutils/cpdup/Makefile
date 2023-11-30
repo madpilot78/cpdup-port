@@ -14,6 +14,7 @@ GH_ACCOUNT=	freebsd
 GH_TAGNAME=	main
 MAKEFILE=	Makefile.bsd
 
-PLIST_FILES=	bin/cpdup man/man1/cpdup.1.gz
+PLIST_FILES=	bin/cpdup \
+		man/man1/cpdup.1.gz
 
 .include <bsd.port.mk>
