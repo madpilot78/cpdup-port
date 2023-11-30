@@ -6,7 +6,7 @@ MAINTAINER=	gmarco@giovannelli.it
 COMMENT=	Comprehensive filesystem mirroring and backup program
 WWW=		https://github.com/freebsd/cpdup
 
-LICENSE=	BSD2CLAUSE # clarified by Matthew Dillon himself
+LICENSE=	BSD3CLAUSE
 
 USES=		ssl tar:xz
 USE_GITHUB=	yes
